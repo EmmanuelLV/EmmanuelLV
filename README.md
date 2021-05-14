@@ -1,8 +1,11 @@
 ### Hi there I'm Emmanuel👋
-🔭 I’m currently working on nuxt web pages proyect
-🌱 I’m currently learning swagger.io json to document API's
+- 🔭 I’m currently working on nuxt web pages proyect
+- 🌱 I’m currently learning swagger.io json to document API's
 
-[![Estadisticas de Emma](https://github-readme-stats.vercel.app/api?username=EmmanuelLV)](https://github.com/anuraghazra/github-readme-stats)
+[![Emma's statistics](https://github-readme-stats.vercel.app/api?username=EmmanuelLV)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelLV&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--

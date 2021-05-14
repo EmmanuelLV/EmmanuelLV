@@ -5,8 +5,10 @@
 [![Emma's statistics](https://github-readme-stats.vercel.app/api?username=EmmanuelLV)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelLV&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[<img align="left" alt="nodejs" width="22px" src="https://simpleicons.org/icons/node-dot-js.svg">][c]
 
 
+[c]: https://github.com/EmmanuelLV
 
 <!--
 **EmmanuelLV/EmmanuelLV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
